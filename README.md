@@ -1,6 +1,6 @@
 ![Blue Corporate Linkedin Article Cover image ](https://github.com/ALIRAZA4278/ALIRAZA4278/blob/main/Blue%20Corporate%20Linkedin%20Article%20Cover%20image%20%20Update.png)
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
-<h3 align="center">A passionate Web and Chatbot developer from Pakistan</h3>
+<h3 align="center">A passionate Web developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/81RA.gif">
 
 - 🌱 I’m currently learning **React**
