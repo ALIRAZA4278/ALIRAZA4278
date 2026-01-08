@@ -16,7 +16,7 @@
 <a href="https://twitter.com/alifaro45370063" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alifaro45370063" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ali-raza-4a5762282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-raza-4a5762282" height="30" width="40" /></a>
 <a href="https://fb.com/ali.farooq.1447342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali.farooq.1447342" height="30" width="40" /></a>
-<a href="https://instagram.com/its_zyrox_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_zyrox_x" height="30" width="40" /></a>
+<a href="https://instagram.com/ali._.razax/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_zyrox_x" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/4GaPu82F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/4GaPu82F" height="30" width="40" /></a>
 </p>
 
