@@ -181,7 +181,7 @@
 
   - 📧 **Email:** af912923@gmail.com
   - 📱 **WhatsApp:** +92 321 2865058
-  - 🌐 **Portfolio:** [ali-raza-portfolio-sigma.vercel.app](https://ali-raza-portfolio-sigma.vercel.app)
+  - 🌐 **Portfolio:** [https://ali--raza.vercel.app/](https://ali--raza.vercel.app/)
   - 💼 **LinkedIn:** [Ali Raza](https://www.linkedin.com/in/ali-raza-4a5762282/)
 
   ---
