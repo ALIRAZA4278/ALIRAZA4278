@@ -48,7 +48,7 @@
 
   | Company | Role | Work |
   |---------|------|------|
-  | **MS Capital Soft** | Full Stack Developer | Building SaaS products — Adspoke, ActiveCalculator, Selvo |
+  | **MS Capital Soft** | software engineer | Building SaaS products — Adspoke, ActiveCalculator, Selvo |
 
   ---
 
